@@ -10,14 +10,19 @@ Sample Unity 3D car control game
 ## Resources
 
 [Tutorial](https://learn.unity.com/project/unit-1-driving-simulation)
+
 [Brackys 2D Mega Pack](https://assetstore.unity.com/packages/2d/free-2d-mega-pack-177430)
+
 [Publish WebGL project on Unity](https://learn.unity.com/tutorial/creating-and-publishing-webgl-builds)
 
 ## Controls
 
 WASD to move
+
 SPACE to change vehicle
+
 R to restart level
+
 Q to quit
 
 ## Goal
